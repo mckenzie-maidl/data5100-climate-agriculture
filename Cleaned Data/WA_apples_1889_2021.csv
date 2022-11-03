@@ -1,4 +1,4 @@
-,year,geo_level,state,yield_acre_lbs,bearing_acre,total_production_lbs,utilitzed_production_lbs,avg_price_pound_dollars,value_utilized_production_dollars
+,year,geo_level,state,yield_acre_lbs,bearing_acre,total_production_lbs,utilized_production_lbs,avg_price_pound_dollars,value_utilized_production_dollars
 1,2021,STATE,WASHINGTON,39300,172000,6760000000,6489600000,0.337,2185373000
 2,2020,STATE,WASHINGTON,39500,175000,6915000000,6569300000,0.319,2095265000
 3,2019,STATE,WASHINGTON,44200,172000,7600000000,7220000000,0.271,1958900000

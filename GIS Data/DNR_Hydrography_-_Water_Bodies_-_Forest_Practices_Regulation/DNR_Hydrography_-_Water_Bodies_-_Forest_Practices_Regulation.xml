@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>WA Hydrography - Water Bodies</title>
+                <onlink>https://gis.dnr.wa.gov/site2/rest/services/Public_Forest_Practices/WADNR_PUBLIC_FP_Hydro/MapServer/1</onlink>
+                <onlink>https://fortress.wa.gov/dnr/adminsa/gisdata/datadownload/state_hydro.zip</onlink>
+                <onlink>https://fortress.wa.gov/dnr/adminsa/GisData/metadata/ROPA_WBHYDRO.pdf</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>For large areas, like Washington State, download as a file geodatabase.  Large data sets like this one, for the State of Washington, may exceed the limits for downloading as shape files, excel files, or KML files.  For areas less than a county, you may use the map to zoom to your area and download as shape file, excel or KML, if that format is desired.DNR Water Bodies (WB) and DNR Watercourses (WC)
+collectively known as DNR Hydro, contain water feature location and water type that
+is used by the Forest Practices program to determine the amount and pattern of
+riparian buffer protection required during forest practices activities.  The water
+type is a Washington State Department of Natural Resources (DNR) classification
+system of streams and water bodies that identifies whether or not streams/water
+bodies have potential fish habitat, and whether or not streams experience
+perennial or seasonal flow.
+
+WC Hydro represents water courses as arcs or lines.
+These occur alone as single arcs representing streams, ditches, or pipelines,
+or as centerlines through water body polygons such as double-banked streams,
+lakes, impoundments, reservoirs, wet areas, or glaciers. WB represents water
+bodies as polygonal features. WB Hydro includes features such as Puget Sound,
+lakes, wet areas, reservoirs, impoundments, glaciers, islands, and dams. WS
+represents shorelines as polygon perimeter arcs and
+are edited coincidentally with WB.  WC and WB
+are edited daily and simultaneously; updates are posted weekly for internal DNR
+use and monthly for external use. Routes can be built on the WC by using the
+whole stream identifier (WC_LLID_NR). DNR HYDRO is continually updated through
+the DNR Forest Practices Water Type Modification Form process. DNR HYDRO is
+mixed scale. The nominal scale is considered 1:24,000, but some data at larger
+scales are included.Water Bodies Layer Metadata</abstract>
+            <purpose>DNR Water Bodies (WB) and DNR Watercourses (WC) collectively known as DNR Hydro, contain water feature location and water type information that is used by the Forest Practices program to regulate Forest Practices Activities.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Hydrography</themekey>
+                <themekey>Water</themekey>
+                <themekey>Streams</themekey>
+                <themekey>Lakes</themekey>
+                <themekey>WA</themekey>
+                <themekey>DNR</themekey>
+                <themekey>Washington</themekey>
+                <themekey>Department of Natural Resources</themekey>
+                <themekey>Rivers</themekey>
+                <themekey>Water Bodies</themekey>
+                <themekey>Forest Regulation</themekey>
+                <themekey>Waterbodies</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The Washington State Department of Natural Resources (DNR) provides these geographic data &amp;quot;as is.&amp;quot; DNR makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. DNR further makes no warranties, either expressed or implied as to any other matter whatsoever, including, without limitation, the condition of the product, or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of DNR, no warranty, expressed or implied, is made by DNR regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty. In no event shall the DNR have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of use of or reliance on the geographic data or arising out of the delivery, installation, operation, or support by DNR</useconst>
+        <datacred>Washington State Department of Natural Resources, Forest Practices Division</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20170314</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

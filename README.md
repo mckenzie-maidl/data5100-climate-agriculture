@@ -25,6 +25,9 @@ The following datasets are each from the United States Department of Agriculture
 - WA_apple_price_1909_2021: apple price data for Washington state, 2007 - 2021
 - WA_apples_utilized_production_2007_2021: apple utilized production data for Washington state, 2007 - 2021
 
+##### Climate Data
+- 
+
 #### Cleaned Data
 Contains cleaned and merged versions of the raw data files.
 

@@ -64,6 +64,7 @@ These notebooks contain the code that was used for this project.
 
 #### Data Cleaning
 - AppleData_Cleaning: loaded raw apple data, cleaned and merged to create final datasets
+- Climate_Data_Cleaning_Notebook: loaded raw PRISM data, cleaned to create final dataset
 
 #### Data Exploration
 - AppleData_Exploration: uses clean data, creates graphical representations of the apple data

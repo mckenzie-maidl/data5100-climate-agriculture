@@ -1,7 +1,7 @@
 # data5100-climate-agriculture
 Project repository for DATA 5100 (Foundations of Data Science) for the MS Data Science program at Seattle University.
 
-Fall 2022 | Alexander Churchill, Malia Kortez, McKenzie Maidl, Yootaek Oh
+Fall 2022 | Alexander Churchill, Malia Cortez, McKenzie Maidl, Yootaek Oh
 
 ## Problem Statement
 The overarching question of our project is; How has and how will climate change impact apple yields in Washington state? To answer this, we broke the question down into the following smaller questions:

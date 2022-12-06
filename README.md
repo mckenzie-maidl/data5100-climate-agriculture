@@ -36,16 +36,16 @@ The following datasets are each from the United States Department of Agriculture
 
 ##### Climate Data
 The following datasets are county-level data from the Parameter-elevation Regressions on Independent Slopes Model (PRISM) Climate Group, at the Northwest Alliance for Computational Science and Engineering:
-- Adams: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Adams County, 1895 - 2021
-- Benton: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Benton County, 1895 - 2021
-- Chelan: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Chelan County, 1895 - 2021
-- Douglas: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Douglas County, 1895 - 2021
-- Franklin: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Franklin County, 1895 - 2021
-- Grant: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Grant County, 1895 - 2021
-- Klickitat: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Klickitat County, 1895 - 2021
-- Okanogan: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Okanogan County, 1895 - 2021
-- WallaWalla: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Walla Walla County, 1895 - 2021
-- Yakima: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Yakima County, 1895 - 2021
+- **Adams**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Adams County, 1895 - 2021
+- **Benton**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Benton County, 1895 - 2021
+- **Chelan**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Chelan County, 1895 - 2021
+- **Douglas**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Douglas County, 1895 - 2021
+- **Franklin**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Franklin County, 1895 - 2021
+- **Grant**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Grant County, 1895 - 2021
+- **Klickitat**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Klickitat County, 1895 - 2021
+- **Okanogan**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Okanogan County, 1895 - 2021
+- **WallaWalla**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Walla Walla County, 1895 - 2021
+- **Yakima**: Monthly weather data (precipitation, min/max/mean temperature, temperature differences, and min/max vapor pressure deficits) for Yakima County, 1895 - 2021
 
 
 #### Cleaned Data
@@ -67,6 +67,7 @@ These notebooks contain the code that was used for this project.
 
 #### Data Exploration
 - AppleData_Exploration: uses clean data, creates graphical representations of the apple data
+- Climate_Data_EDA_Notebook: uses clean data, creates graphical representations of climate (PRISM) data
 
 #### Modeling
 - Model_LogisticRegression: logistic regression model for percent of apple production utilized (all or not all) 

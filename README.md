@@ -72,4 +72,7 @@ These notebooks contain the code that was used for this project.
 #### Modeling
 - Model_LogisticRegression: logistic regression model for percent of apple production utilized (all or not all) 
 - Prophet_Model: Facebook Prophet Model for yield per tree using weather data as features
-- Linear_Regression_Model: Multiple linear regression model for yield per acre 
+
+## Sources
+Apple Data:
+- https://quickstats.nass.usda.gov/

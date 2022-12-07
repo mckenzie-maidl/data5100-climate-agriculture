@@ -70,6 +70,6 @@ These notebooks contain the code that was used for this project.
 - AppleData_Exploration: uses clean data, creates graphical representations of the apple data
 - Climate_Data_EDA_Notebook: uses clean data, creates graphical representations of climate (PRISM) data
 
-#### Modeling Notebooks
+#### Modeling
 - Model_LogisticRegression: logistic regression model for percent of apple production utilized (all or not all) 
 - Prophet_Model: Facebook Prophet Model for yield per tree using weather data as features

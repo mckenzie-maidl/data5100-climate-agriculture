@@ -82,6 +82,9 @@ Apple Data:
 - https://www.agriculture.gov.au/sites/default/files/sitecollectiondocuments/ba/plant/submissions/paprika/washington-fruit-tree-survey-2006.pdf
 - https://journals.ashs.org/downloadpdf/journals/horttech/4/1/article-p6.pdf
 
+Climate Data:
+- https://prism.oregonstate.edu/recent/
+
 Facebook Prophet Model Resources:
 - https://facebook.github.io/prophet/
 - https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a

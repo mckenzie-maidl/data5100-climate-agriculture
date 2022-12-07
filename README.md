@@ -4,16 +4,15 @@ Project repository for DATA 5100 (Foundations of Data Science) for the MS Data S
 Fall 2022 | Alexander Churchill, Malia Cortez, McKenzie Maidl, Yootaek Oh
 
 ## Problem Statement
-The overarching question of our project is; How has and how will climate change impact apple yields in Washington state? To answer this, we broke the question down into the following smaller questions:
+**How has and how will climate change impact apple yields in Washington state?**
 
-- How has and how will climate change impact Washington state? Specifically,
-    - How have average temperatures changed throughout Washington state, and how do we forecast them to change over the next 50 years?
-    - How have the lengths of the seasons changed?
-    - How has average annual precipitation changed? How has seasonal precipitation changed?
-- How do the above factors affect apple yields in Washington State?
-    - Has there been evidence of changes in apple production in the state?
-    - Have annual crop yields changed in Washington?
-    - How are apple yields predicted to change over time? How do different inputs (temperature, season length, rainfall, etc.) impact the predicted yields?
+To answer this, we broke the question down into the following smaller questions:
+
+- How have different climatic variables changed over time?
+- Is there evidence of changes in apple production in the state?
+    - Have annual apple yields changed, and has the yield per tree changed?
+- How do different climatic factors impact the yields?
+- How do we forecast apple yields per tree to change over the next 5 years?
 
 ## Repository Contents
 

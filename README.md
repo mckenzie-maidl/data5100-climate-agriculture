@@ -77,9 +77,13 @@ These notebooks contain the code that was used for this project.
 Apple Data:
 - https://quickstats.nass.usda.gov/
 - https://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Fruit/2017/FT2017.pdf
+- https://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Fruit/2017/FT2017.pdf
+- https://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Fruit/Tree_fruit%20Final_Revised_2-21-14.pdf
+- https://www.agriculture.gov.au/sites/default/files/sitecollectiondocuments/ba/plant/submissions/paprika/washington-fruit-tree-survey-2006.pdf
+- https://journals.ashs.org/downloadpdf/journals/horttech/4/1/article-p6.pdf
 
 Facebook Prophet Model Resources:
--  https://facebook.github.io/prophet/
--  https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a
+- https://facebook.github.io/prophet/
+- https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a
 - https://nbviewer.org/github/nicolasfauchereau/Auckland_Cycling/blob/master/notebooks/Auckland_cycling_and_weather.ipynb
 - https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/

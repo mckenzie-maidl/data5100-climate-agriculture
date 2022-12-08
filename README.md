@@ -90,3 +90,6 @@ Facebook Prophet Model Resources:
 - https://towardsdatascience.com/generalised-additive-models-6dfbedf1350a
 - https://nbviewer.org/github/nicolasfauchereau/Auckland_Cycling/blob/master/notebooks/Auckland_cycling_and_weather.ipynb
 - https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/
+
+GIS Data:
+- https://geo.wa.gov/

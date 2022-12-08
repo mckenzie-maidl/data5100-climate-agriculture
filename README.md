@@ -81,7 +81,7 @@ Apple Data:
 - https://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Fruit/Tree_fruit%20Final_Revised_2-21-14.pdf
 - https://www.agriculture.gov.au/sites/default/files/sitecollectiondocuments/ba/plant/submissions/paprika/washington-fruit-tree-survey-2006.pdf
 - https://journals.ashs.org/downloadpdf/journals/horttech/4/1/article-p6.pdf
-- Written resource:
+- Written resources:
     - https://wstfa.org/wstfa-assets/uploads/2017ProdUtilAnalysis.pdf
     - https://www.researchgate.net/publication/262775357_Advances_in_apple_culture_worldwide
 

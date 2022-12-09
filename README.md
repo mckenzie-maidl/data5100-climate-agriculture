@@ -97,3 +97,7 @@ Facebook Prophet Model Resources:
 
 GIS Data:
 - https://geo.wa.gov/
+
+## Slide Deck
+Google Slides Link:
+- https://docs.google.com/presentation/d/1Q5fQ5xLCtQA7KOkhi-Wwyo8K3aGR604dsIvkf939BrI/edit?usp=sharing
